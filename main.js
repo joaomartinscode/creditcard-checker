@@ -92,3 +92,4 @@ console.log(idInvalidCardCompanies([invalid2]));
 console.log(idInvalidCardCompanies(batch));
 
 
+//This comment is a git test
